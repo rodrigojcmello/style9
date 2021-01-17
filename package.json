@@ -2,11 +2,11 @@
   "name": "style9-dynamic-value",
   "version": "0.5.9",
   "description": "CSS-in-JS compiler",
-  "author": "Johan Holmerin <johan@holmer.in>",
+  "author": "Rodrigo Mello <rodrigojcmello@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johanholmerin/style9.git"
+    "url": "https://github.com/rodrigojcmello/style9.git"
   },
   "keywords": [
     "styles",
