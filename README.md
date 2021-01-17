@@ -1,4 +1,7 @@
-# style9
+# style9 dynamic value
+A version of style9 that supports dynamic values
+
+## style9
 
 CSS-in-JS compiler based on the ideas of
 [Facebook's stylex](https://www.youtube.com/watch?v=9JZHodNR184)
